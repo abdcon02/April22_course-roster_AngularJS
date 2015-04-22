@@ -19,3 +19,7 @@ This web app was designed to practice angular routing and nested states. It allo
 
 * AngularJS
 * Bootstrap
+
+#### License [MIT](https://gist.github.com/tfmertz/f59650110a594d4e226b)
+
+Copyright (c) Connor Abdelnoor & Tom Mertz
