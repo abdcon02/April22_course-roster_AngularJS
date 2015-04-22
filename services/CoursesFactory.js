@@ -3,8 +3,8 @@ courseRoster.factory('CoursesFactory', function CoursesFactory() {
   factory.courses = [];
 
   factory.addCourse = function() {
-    this.courses.push({ name: factory.courseName,
-                        id: factory.course.length + 1,
+    factory.courses.push({ name: factory.courseName,
+                        id: factory.courses.length + 1,
                         students: [] });
     factory.courseName = null;
   };
